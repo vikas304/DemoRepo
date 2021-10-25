@@ -1,3 +1,4 @@
 "FileA"
 "adding second line"
 "adding third line"
+"adding forth line from feature1 branch" 
